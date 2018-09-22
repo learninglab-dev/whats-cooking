@@ -13,5 +13,8 @@ router.get('/menu', function(req, res, next) {
   res.render('menu', { title: "what's cooking" });
 });
 
+router.get('emoji-data', function(req, res, next){
+
+})
 
 module.exports = router;
