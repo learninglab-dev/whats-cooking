@@ -1,0 +1,26 @@
+[
+  {
+    "name": "connor",
+    "image": "https://farm2.staticflickr.com/1862/44746404141_150620307b_h.jpg",
+    "favoriteColor": "rgba(0,0,100,0.7)",
+    "llufId": "0"
+  },
+  {
+    "name": "lara",
+    "image": "https://farm2.staticflickr.com/1894/44027897104_fca177cb2d_h.jpg",
+    "favoriteColor": "rgba(200,0,100,0.7)",
+    "llufId": "1"
+  },
+  {
+    "name": "angela",
+    "image": "https://s3.us-east-2.amazonaws.com/ll-whats-cooking/public/angela.jpg",
+    "favoriteColor": "rgba(130,0,200,0.5)",
+    "llufId": "2"
+  },
+  {
+    "name": "jad",
+    "image": "https://s3.us-east-2.amazonaws.com/ll-whats-cooking/public/Jad.jpg",
+    "favoriteColor": "rgba(130,0,200,0.5)",
+    "llufId": "3"
+  }
+]
